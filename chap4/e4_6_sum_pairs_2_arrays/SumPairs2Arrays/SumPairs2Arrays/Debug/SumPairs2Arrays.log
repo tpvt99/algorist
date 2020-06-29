@@ -1,0 +1,4 @@
+﻿  SumPairs2Arrays.cpp
+D:\CProgrammingLanguage\algorist\chap4\e4_6_sum_pairs_2_arrays\SumPairs2Arrays\SumPairs2Arrays\SumPairs2Arrays.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\CProgrammingLanguage\algorist\chap4\e4_6_sum_pairs_2_arrays\SumPairs2Arrays\SumPairs2Arrays\SumPairs2Arrays.cpp(88): warning C4715: 'binarySearch': not all control paths return a value
+  SumPairs2Arrays.vcxproj -> D:\CProgrammingLanguage\algorist\chap4\e4_6_sum_pairs_2_arrays\SumPairs2Arrays\Debug\SumPairs2Arrays.exe
